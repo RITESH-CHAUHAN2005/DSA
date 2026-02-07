@@ -23,7 +23,14 @@ The `Patterns/` directory contains various pattern printing programs:
 - Pattern 4 - Complex patterns
 - Pattern 5 - Advanced pattern designs
 - Pattern 6 - Additional pattern designs
-- pattern7 - Palindromic number pyramid
+- Pattern 7 - Palindromic number pyramid
+
+#### Character Patterns
+
+The `Patterns/Characters/` directory contains character-based pattern programs:
+
+- Problem 1 - Character pattern printing
+- Checking Value - Value validation program
 
 ## 🛠️ Technologies Used
 
@@ -70,7 +77,10 @@ DSA/
     ├── pattern4.cpp
     ├── pattern5.cpp
     ├── pattern6.cpp
-    └── pattern7.cpp
+    ├── pattern7.cpp
+    └── Characters/
+        ├── checkingvalue.cpp
+        └── problem1.cpp
 ```
 
 ## 📈 Progress
