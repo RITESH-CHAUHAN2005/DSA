@@ -23,6 +23,7 @@ The `Patterns/` directory contains various pattern printing programs:
 - Pattern 4 - Complex patterns
 - Pattern 5 - Advanced pattern designs
 - Pattern 6 - Additional pattern designs
+- pattern7 - Palindromic number pyramid
 
 ## 🛠️ Technologies Used
 
@@ -58,6 +59,7 @@ DSA/
 ├── fibonaccin.cpp
 ├── larestn.cpp
 ├── prime.cpp
+├── README.md
 ├── reverse.cpp
 ├── squareroot.cpp
 ├── sum.cpp
@@ -67,7 +69,8 @@ DSA/
     ├── pattern3.cpp
     ├── pattern4.cpp
     ├── pattern5.cpp
-    └── pattern6.cpp
+    ├── pattern6.cpp
+    └── pattern7.cpp
 ```
 
 ## 📈 Progress
