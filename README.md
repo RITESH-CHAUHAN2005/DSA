@@ -30,6 +30,8 @@ The `Patterns/` directory contains various pattern printing programs:
 The `Patterns/Characters/` directory contains character-based pattern programs:
 
 - Problem 1 - Character pattern printing
+- Problem 2 - Character type identification
+- Count Type - Count different types of characters in input
 - Checking Value - Value validation program
 
 ## 🛠️ Technologies Used
@@ -80,7 +82,9 @@ DSA/
     ├── pattern7.cpp
     └── Characters/
         ├── checkingvalue.cpp
-        └── problem1.cpp
+        ├── counttype.cpp
+        ├── problem1.cpp
+        └── problem2.cpp
 ```
 
 ## 📈 Progress
